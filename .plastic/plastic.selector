@@ -1,0 +1,4 @@
+repository "Starry Soar/Starry Soar@5773917947380@cloud"
+  path "/"
+    br "/main"
+    co "/main"
